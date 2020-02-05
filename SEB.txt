@@ -1,0 +1,56 @@
+Snabbnavigation:
+Sidinnehåll Sajtnavigation Sidfot
+SEB
+Inloggad som: Viktor Stensson  Valt företag:   English  Logga ut Internetbanken Företag
+Start
+Betala & överföra
+Konto & kort
+Fonder & värdepapper
+Valutahandel
+Finansiering
+Pension & försäkring
+Kundservice
+
+Kontohändelser
+Skriv ut  Snabbval   Hjälp
+Kontohändelser
+Kontoutdrag
+Kontoinformation
+ 	Sök kontohändelser - Fyll i ett eller flera av fälten.
+Konto:	 
+Datum:	  -  
+Belopp:	 -  
+Sökbegrepp:	
+
+
+ 
+Alla kontohändelser (25 mån) 
+
+Spara kontohändelser   Skriv ut kontohändelser
+Företagskonto	Saldo	Disponibelt belopp	Beviljad kredit	Reserverat belopp
+Bokförings-
+datum	Valuta-
+datum	Verifikations-
+nummer	 
+Text/mottagare	 
+Belopp	 
+Saldo
+
+Skicka	2015-11-30	2015-11-29	676467	Pension 	-107,00 	457.936,33
+2015-11-27	2015-11-27	1212211	Bg 832-1300 	8.611,22 	458.043,33
+Skicka	2015-11-26	2015-11-25	121222	Partner AB 	-1.250,00 	449.432,11
+Skicka	2015-11-26	2015-11-25	334343	Försäkring 	-1.712,00 	450.682,11
+Skicka	2015-11-26	2015-11-25	123455	Bank 	-7.507,58 	452.394,11
+Skicka	2015-11-23	2015-11-25	223335	Server 	-14.787,00 	459.901,69
+Skicka	2015-11-21	2015-11-25	454545	Möbler 	-8.619,60 	489.475,69
+2015-11-18	2015-11-18	2333434	Sk5568737877	5.157,00	498.095,29
+Skicka	2015-11-10	2015-11-09	765434	Pension 	-107,00 	492.938,29
+
+Ytterligare kontohändelser
+ 
+Kommande händelser SEK
+Avbeställ företagets kontoutdrag på papper
+Vill du göra en insats för miljön? Säg upp kontoutdragen på papper. Du kommer alltid att kunna skriva ut dem härifrån internetbanken.
+Avbeställ kontoutdragen
+© Skandinaviska Enskilda Banken AB (publ) 0771-62 53 53 Öppet dygnet runt, året om Kontakta oss
+2016-01-07 13:00:44
